@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="146" height="16" viewBox="0 0 146 16">
+    <g data-name="Plane path">
+        <g data-name="Group 3702">
+            <path data-name="Path 35051" d="M878.252 376.76h56" transform="translate(-877.252 -368.76)" style="fill:none;stroke:#434343;stroke-linecap:round;stroke-width:2px;stroke-dasharray:6"/>
+            <path data-name="Path 35053" d="M878.252 376.76h56" transform="translate(-789.252 -368.76)" style="fill:none;stroke:#434343;stroke-linecap:round;stroke-width:2px;stroke-dasharray:6"/>
+        </g>
+        <g data-name="Plane icon">
+            <path data-name="Path 35052" d="M14.908 9.093h-3.391a.213.213 0 0 0-.073.045c-.118.174-4.223 6.719-4.223 6.719L5.593 16c.28-.874 2.105-6.547 2.187-6.8a.339.339 0 0 0 .011-.039c.013-.077 0-.089-.072-.1-1.808-.2-5.559-.613-5.627-.623a.063.063 0 0 0-.077.052l-.38 1.187-.307.965a.046.046 0 0 1-.047.033H.05a.05.05 0 0 1-.05-.051V5.375a.05.05 0 0 1 .05-.05h1.231a.046.046 0 0 1 .047.031l.686 2.151a.063.063 0 0 0 .077.052c.068-.009 3.819-.421 5.627-.623.076-.008.085-.02.072-.1a.381.381 0 0 0-.011-.036L5.607 0l1.54.15s4.178 6.537 4.3 6.711a.213.213 0 0 0 .073.045h3.38a1.094 1.094 0 1 1 0 2.187" style="fill:#434343" transform="translate(65)"/>
+        </g>
+    </g>
+</svg>

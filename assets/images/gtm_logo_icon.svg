@@ -1,0 +1,54 @@
+<svg data-name="Group 4332" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+    <defs>
+        <clipPath id="zeyiboakaa">
+            <path data-name="Rectangle 2401" style="fill:none" d="M0 0h512v512H0z"/>
+        </clipPath>
+        <clipPath id="juo0l9dkrb">
+            <path data-name="Path 47530" d="m125.653 451.9 35.3-9.536-33.54-126.264 158.368 17.28L6.261.831z" transform="translate(-6.261 -.831)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="myy9v6wjld">
+            <path data-name="Path 47531" d="m3.82 429.951 128.608-94.784 33.536 126.272 35.36-9.536L81.932.831z" transform="translate(-3.82 -.831)" style="fill:none"/>
+        </clipPath>
+        <clipPath id="rez3d2zgmf">
+            <path data-name="Rectangle 2399" style="fill:none" d="M0 0h160.015v127.677H0z"/>
+        </clipPath>
+        <linearGradient id="9a0ch2qydc" x1="-.192" y1="1.244" x2="-.127" y2="1.244" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#bbc8e5"/>
+            <stop offset="1" stop-color="#8c9cc0"/>
+        </linearGradient>
+        <linearGradient id="8thd1m2ube" x1="-.116" y1="1.01" x2="-.027" y2="1.01" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff"/>
+            <stop offset="1" stop-color="#e3eafa"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 4316" style="clip-path:url(#zeyiboakaa)">
+        <g data-name="Group 4306">
+            <g data-name="Group 4305" style="clip-path:url(#zeyiboakaa)">
+                <path data-name="Path 47528" d="M512 256a255.361 255.361 0 0 1-48.224 149.632 259.057 259.057 0 0 1-22.624 27.168c-1.312 1.408-2.72 2.816-4.128 4.224a253.956 253.956 0 0 1-156.512 73.824C272.448 511.584 264.256 512 256 512a254.706 254.706 0 0 1-93.824-17.76c-7.264-2.88-14.432-6.016-21.376-9.568A256.235 256.235 0 0 1 0 256C0 114.624 114.624 0 256 0a255.984 255.984 0 0 1 256 256" style="fill-rule:evenodd;fill:#5a2f80"/>
+                <path data-name="Path 47529" d="m381.394 359.2-177.632-19.712 57.344 103.936-.7 22.5c-31.648 13.664-64.928 20.736-100.192 19.872l-26.66-132.26-119.776 86.72-10.688-8.448L104.562.832l287.008 339.1z" transform="translate(95.79 25.792)" style="fill:#470970;fill-rule:evenodd"/>
+            </g>
+        </g>
+        <g data-name="Group 4308">
+            <g data-name="Group 4307" style="clip-path:url(#juo0l9dkrb)" transform="translate(200.352 26.592)">
+                <path data-name="Rectangle 2397" transform="rotate(-80.39 222.372 263.187)" style="fill:url(#9a0ch2qydc)" d="M0 0h491.404v350.898H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 4310">
+            <g data-name="Group 4309" style="clip-path:url(#myy9v6wjld)" transform="translate(122.24 26.592)">
+                <path data-name="Rectangle 2398" transform="rotate(-22.48 88 443.46)" style="fill:url(#8thd1m2ube)" d="M0 0h358.591v501.125H0z"/>
+            </g>
+        </g>
+        <g data-name="Group 4315">
+            <g data-name="Group 4314" style="clip-path:url(#zeyiboakaa)">
+                <path data-name="Path 47532" d="M83.637.832C63.925 122.944 28.693 306.72 6.741 430.144l-1.952-1.184c12.48-9.06 69.152-51.26 80.511-59.072 14.5-10.336 34.3-24.448 48.832-34.72-20.192 15.392-43.3 33.184-63.552 48.384l-64.32 47.36-2.5 1.856.544-3.04C27.381 305.824 58.933 122.72 83.637.832" transform="translate(116.715 25.792)" style="fill:#fff"/>
+                <g data-name="Group 4313" style="opacity:.6">
+                    <g data-name="Group 4312">
+                        <g data-name="Group 4311" style="clip-path:url(#rez3d2zgmf)" transform="translate(319.844 340.452)">
+                            <path data-name="Path 47533" d="M45.2 138.319c-11.552-35.9-24.736-89.056-34.752-125.952L10 10.639l1.76.192 79.2 8.64c7.3.832 42.848 4.448 49.472 5.6 4.9.7 14.848 2.08 19.712 2.784l9.856 1.44-9.92-.7c-9.28-.736-20.576-1.44-29.792-2.368C105.2 23.471 37.483 16.111 11.5 13.263l1.312-1.536c9.7 37.216 24.544 89.5 32.384 126.592" transform="translate(-9.999 -10.643)" style="fill:#fff"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

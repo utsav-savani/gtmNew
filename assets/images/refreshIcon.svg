@@ -1,0 +1,11 @@
+<svg data-name="Refresh icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <defs>
+        <clipPath id="nrm6q714fa">
+            <path data-name="Rectangle 2115" style="fill:#c6d4e7" d="M0 0h20v20H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Group 3775" style="clip-path:url(#nrm6q714fa)">
+        <path data-name="Path 35062" d="M17.244 2.922 20.083.015l.058.034v7.815H12.16l2.955-2.9c-.059-.062-.11-.121-.167-.174A7.091 7.091 0 0 0 3.866 6.886a4.859 4.859 0 0 1-.291.621A1.5 1.5 0 0 1 .958 6.09a9.26 9.26 0 0 1 1.921-2.954A9.685 9.685 0 0 1 8.659.112a9.84 9.84 0 0 1 8.354 2.6c.065.06.132.118.232.207" transform="translate(-.141)" style="fill:#c6d4e7"/>
+        <path data-name="Path 35063" d="M2.912 19.426 0 22.333V14.52h8.013L5.058 17.4c.058.062.1.117.154.164a6.871 6.871 0 0 0 4.406 1.816 7.058 7.058 0 0 0 6.865-4.28 1.5 1.5 0 0 1 2.744 1.2 10.728 10.728 0 0 1-2.112 3.1 10.011 10.011 0 0 1-14.053.16c-.037-.036-.075-.07-.152-.142" transform="translate(0 -2.368)" style="fill:#c6d4e7"/>
+    </g>
+</svg>

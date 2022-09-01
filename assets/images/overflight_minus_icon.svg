@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40">
+    <g data-name="Group 4010">
+        <g data-name="Group 1569">
+            <path data-name="Path 2901" d="m7816.292 7522.851-10.186 16.2 11.2 15.8h-132v-32z" transform="translate(-7685.311 -7514.851)" style="fill:#9364cc"/>
+            <path data-name="Path 2902" d="M7703.909 7508.8v8l-14-.118z" transform="translate(-7689.908 -7508.798)" style="fill:#8347cc"/>
+        </g>
+        <text data-name="Overflight/s" transform="translate(36 29)" style="fill:#fff;font-size:12px;font-family:Lato-Regular,Lato"><tspan x="0" y="0">Overflight/s</tspan></text>
+        <g data-name="Add icon">
+            <g data-name="Group 3698">
+                <path data-name="Path 35049" d="M1577.155 463.978h14" transform="translate(-1567.155 -438.978)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2px"/>
+                <path data-name="Path 35050" d="M0 0h14" transform="rotate(90 -.5 17.5)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2px"/>
+            </g>
+        </g>
+    </g>
+</svg>

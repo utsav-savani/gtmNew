@@ -1,0 +1,24 @@
+name: flight_purpose_repository
+description: A repository that handles flight purposes.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  equatable: ^2.0.3
+  http: ^0.13.4
+  flutter_bloc: ^8.0.1
+  user_repository:
+    path: ../user_repository
+
+dev_dependencies:
+  mocktail: ^0.2.0
+  json_serializable: ^6.1.5
+  test: ^1.17.0
+  build_runner: ^2.1.8
+  very_good_analysis: ^2.4.0

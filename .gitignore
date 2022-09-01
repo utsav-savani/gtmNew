@@ -1,0 +1,97 @@
+# ============ Starts =============
+# Save Trip Schedule
+# Recent Fixes to be done in mobile as well
+# ============ Ends ===============
+
+# Things to be considered before launch
+# ============ Starts: Lokesh =========
+
+
+# Trip Services: 3 dots functionality to be done
+# Trip POB: Download Report options same as TMSE
+
+# Trip Services: Search options
+# Trip Manager: Pagination 
+# Trip manager: Date Time picker
+# Trip Schedule: Reverse selection of the category 
+# Trip Data: The second and third section height should be same as first one
+
+# Web: After creation the tab name is saying as "New Trip", it should be trip number
+# Web: /dashboard -> please handle route based on the url
+# Trip Services - Switch icon between UTC to LCL, you can use same as Schedule screen
+# ============ Ends: Lokesh ===========
+# ============ Starts: Safi =========
+# Merging mobile and web schedule
+# UAT changes for web app
+# UAT submission to TestFlight
+# Adding one hour by default to the date selection
+# ATCRTE hide and show
+# ============ Ends: Safi ===========
+
+# ========= Starts: Mobile App Submission Release Points ========
+# Pointing to UAT
+# ========= Ends: Mobile App Submission Release Points ==========
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.env
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Web related
+lib/generated_plugin_registrant.dart
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+pubspec.lock
+packages/aircraft_repository/pubspec.lock
+packages/user_repository/pubspec.lock
+packages/trip_manager_repository/pubspec.lock
+packages/operator_repository/pubspec.lock
+packages/country_repository/pubspec.lock
+packages/authentication_repository/pubspec.lock
+packages/airport_repository/pubspec.lock
+packages/flight_category_repository/pubspec.lock
+ios/Podfile.lock
+pubspec.lock
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
+pubspec.lock
+*.lock

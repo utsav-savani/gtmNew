@@ -1,0 +1,23 @@
+{
+    "welcome": "مرحبا",
+
+    "login": "تسجيل الدخول",
+    "signup": "اشتراك",
+    "forgotPassword": "هل نسيت كلمة السر",
+
+    "reset": "إعادة تعيين",
+    "back": "الى الخلف",
+
+    "emailId": "عنوان الايميل",
+    "enterEmailId": "أدخل معرف البريد الإلكتروني",
+    "pleaseEnterEmailId": "الرجاء إدخال البريد الإلكتروني",
+    "pleaseEnterValidEmailId": "الرجاء إدخال البريد الإلكتروني الصحيح",
+
+    "password": "كلمة المرور",
+    "enterPassword": "أدخل كلمة المرور",
+    "pleaseEnterPassword": "الرجاء إدخال كلمة المرور",
+
+    "fullName": "الاسم الكامل",
+    "enterFullName": "أدخل الاسم الكامل",
+    "pleaseEnterFullName": "الرجاء إدخال الاسم الكامل"
+}

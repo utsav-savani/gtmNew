@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <clipPath id="uof4och2ia">
+            <path data-name="Rectangle 2414" transform="translate(0 1)" style="fill:#434244" d="M0 0h22v22H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="checklist icon" style="opacity:.6">
+        <g data-name="Group 4369" transform="translate(0 -1)" style="clip-path:url(#uof4och2ia)">
+            <path data-name="Path 47573" d="M5.845 5.843a1 1 0 1 1-1-1 1 1 0 0 1 1 1" transform="translate(.156 .157)" style="fill:#434244"/>
+            <path data-name="Path 47574" d="M5.845 12.128a1 1 0 1 1-1-1 1 1 0 0 1 1 1" transform="translate(.156 -.128)" style="fill:#434244"/>
+            <path data-name="Path 47575" d="M5.845 18.414a1 1 0 1 1-1-1 1 1 0 0 1 1 1" transform="translate(.156 -.414)" style="fill:#434244"/>
+            <path data-name="Path 47576" d="M8.771 7.314h8.109a1 1 0 0 0 0-2H8.771a1 1 0 0 0 0 2" transform="translate(.175 -.314)" style="fill:#434244"/>
+            <path data-name="Path 47577" d="M8.771 13.6h8.109a1 1 0 0 0 0-2H8.771a1 1 0 0 0 0 2" transform="translate(.175 -.599)" style="fill:#434244"/>
+            <path data-name="Path 47578" d="M8.771 19.885h8.109a1 1 0 0 0 0-2H8.771a1 1 0 0 0 0 2" transform="translate(.175 -.885)" style="fill:#434244"/>
+            <g data-name="Rectangle 2889" style="stroke:#434244;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none">
+                <path style="stroke:none" d="M0 0h22v22H0z" transform="translate(0 1)"/>
+                <path style="fill:none" d="M.75.75h20.5v20.5H.75z" transform="translate(0 1)"/>
+            </g>
+        </g>
+    </g>
+</svg>

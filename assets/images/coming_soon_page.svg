@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394.847" height="394.847" viewBox="0 0 394.847 394.847">
+    <defs>
+        <filter id="wnjjorakma" x="31.285" y="31.286" width="333.039" height="333.039" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="4" result="blur"/>
+            <feFlood flood-color="#8d8d8d" flood-opacity=".122"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="axrsb8ennb" x="0" y="0" width="394.847" height="394.847" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="4" result="blur-2"/>
+            <feFlood flood-color="#8d8d8d" flood-opacity=".278"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="r83mx47y5c" x="112" y="176" width="170" height="84" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="4" result="blur-3"/>
+            <feFlood flood-color="#8b8b8b" flood-opacity=".278"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="qe3h0yn9ad" x="113" y="136" width="168" height="64" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="4" result="blur-4"/>
+            <feFlood flood-color="#8b8b8b" flood-opacity=".278"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="Group 4422">
+        <g data-name="Group 4421">
+            <g style="filter:url(#wnjjorakma)" transform="translate(0 -.003)">
+                <g data-name="Ellipse 231" transform="translate(43.29 39.29)" style="stroke-width:8px;fill:#fff;stroke:#fff">
+                    <circle cx="154.52" cy="154.52" r="154.52" style="stroke:none"/>
+                    <circle cx="154.52" cy="154.52" r="150.52" style="fill:none"/>
+                </g>
+            </g>
+            <g style="filter:url(#axrsb8ennb)" transform="translate(0 -.003)">
+                <g data-name="Ellipse 232" transform="rotate(20 32.795 318.643)" style="stroke:#c90000;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:51 24;fill:none;stroke-width:8px">
+                    <circle cx="144.669" cy="144.669" r="144.669" style="stroke:none"/>
+                    <circle cx="144.669" cy="144.669" r="140.669" style="fill:none"/>
+                </g>
+            </g>
+        </g>
+        <g style="filter:url(#r83mx47y5c)">
+            <text data-name="SOON" transform="translate(197 232.997)" style="font-size:50px;fill:#c90000;font-family:Lato-Black,Lato;font-weight:800"><tspan x="-72.45" y="0">SOON</tspan></text>
+        </g>
+        <g style="filter:url(#qe3h0yn9ad)">
+            <text data-name="COMING" transform="translate(197 176.997)" style="font-size:33px;letter-spacing:.03em;fill:#c90000;font-family:Lato-Black,Lato;font-weight:800"><tspan x="-71.511" y="0">COMING</tspan></text>
+        </g>
+    </g>
+</svg>

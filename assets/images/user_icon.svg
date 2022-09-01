@@ -1,0 +1,9 @@
+<svg data-name="user icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <circle data-name="Ellipse 152" cx="16" cy="16" r="16" style="fill:#e3ebfe"/>
+    <g data-name="Group 2171" transform="translate(10.733 11)">
+        <path data-name="Path 48002" d="M5.267 6a5.567 5.567 0 0 1 6 6h-12a5.567 5.567 0 0 1 6-6z"/>
+        <circle data-name="Ellipse 248" cx="3" cy="3" r="3" transform="translate(2.267 -2)"/>
+        <path data-name="Path 33846" d="M11.267 11.647c0-3.318-2.475-5.647-6-5.647s-6 2.329-6 5.647V12h12zM.036 11.294a5.276 5.276 0 0 1 10.463 0z"/>
+        <path data-name="Path 33845" d="M5.267 4a3 3 0 1 0-3-2.991 3.01 3.01 0 0 0 3 2.991zm0-5.279A2.279 2.279 0 1 1 2.986.991a2.288 2.288 0 0 1 2.281-2.27z"/>
+    </g>
+</svg>

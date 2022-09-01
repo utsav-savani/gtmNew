@@ -1,0 +1,26 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: gtm
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: gtm
+  template:
+    metadata:
+      labels:
+        app: gtm
+    spec:
+      containers:
+        - name: gtm
+          image: tmsacr.azurecr.io/gtm
+          ports:
+          - containerPort: 443
+          resources:
+            limits:
+              memory: 512Mi
+              cpu: "1"
+            requests:
+              memory: 256Mi
+              cpu: "0.2"

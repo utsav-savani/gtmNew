@@ -1,0 +1,38 @@
+name: trip_manager_repository
+description: A repository that handles trip manager related requests.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ">=2.13.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  equatable: ^2.0.3
+  http: ^0.13.4
+  flutter_bloc: ^8.0.1
+  collection: ^1.15.0
+  user_repository:
+    path: ../user_repository
+  airport_repository:
+    path: ../airport_repository
+  flight_category_repository:
+    path: ../flight_category_repository
+  flight_purpose_repository:
+    path: ../flight_purpose_repository
+  data_table_2: ^2.2.1
+  material_color_gen: ^2.0.0
+  jiffy: ^5.0.0
+  url_launcher: ^6.1.2
+  socket_io_client: ^1.0.2
+  shared_preferences: ^2.0.13
+  timezone: ^0.8.0
+
+dev_dependencies:
+  mocktail: ^0.2.0
+  json_serializable: ^6.1.5
+  test: ^1.17.0
+  build_runner: ^2.1.8
+  very_good_analysis: ^2.4.0

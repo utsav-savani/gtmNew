@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62504452255",
+    "project_id": "uasgtm",
+    "storage_bucket": "uasgtm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62504452255:android:ed7d0ca5033b8a996fe2aa",
+        "android_client_info": {
+          "package_name": "aero.uas.gtm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62504452255-lsn05pkgv0tgfojqn0k7m3a12gl9shlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC81UogYnjNj1BM0cPZZfxMd_HSqgjVAgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62504452255-lsn05pkgv0tgfojqn0k7m3a12gl9shlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

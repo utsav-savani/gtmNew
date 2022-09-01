@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <defs>
+        <clipPath id="4vlrn8dx4a">
+            <path data-name="Rectangle 2408" style="fill:#434244" d="M0 0h22v22H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Company profile icon" style="opacity:.6">
+        <g data-name="Group 4359" style="clip-path:url(#4vlrn8dx4a)">
+            <path data-name="Path 47547" d="M11 9.476a3.238 3.238 0 1 0-3.216-3.238A3.231 3.231 0 0 0 11 9.476m0-5.143a1.905 1.905 0 1 1-1.892 1.9A1.9 1.9 0 0 1 11 4.333" style="fill:#434244"/>
+            <path data-name="Path 47548" d="M5.324 19h11.352A1.329 1.329 0 0 0 18 17.666a7 7 0 1 0-14 0A1.329 1.329 0 0 0 5.324 19M11 11.952a5.7 5.7 0 0 1 5.676 5.714H5.324A5.7 5.7 0 0 1 11 11.952" style="fill:#434244"/>
+            <path data-name="Path 47549" d="M21 0H1a1 1 0 0 0-1 1v20a1 1 0 0 0 1 1h20a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1m-.4 20.6H1.4V1.4h19.2z" style="fill:#434244"/>
+            <path data-name="Path 47550" d="M19 8a1 1 0 1 0-1-1 1 1 0 0 0 1 1" style="fill:#434244"/>
+            <path data-name="Path 47551" d="M19 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1" style="fill:#434244"/>
+            <path data-name="Path 47552" d="M3.3 8a1 1 0 1 0-1-1 1 1 0 0 0 1 1" style="fill:#434244"/>
+            <path data-name="Path 47553" d="M3.3 11a1 1 0 1 0-1-1 1 1 0 0 0 1 1" style="fill:#434244"/>
+        </g>
+    </g>
+</svg>

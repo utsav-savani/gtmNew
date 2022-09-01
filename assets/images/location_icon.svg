@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="38" viewBox="0 0 25 38">
+    <g data-name="Group 5143">
+        <text transform="translate(0 35)" style="font-size:12px;font-family:SF Pro;font-weight:500;letter-spacing:-.01em;fill:#8ca4c9"><tspan x="0" y="0">Loc.</tspan></text>
+        <g data-name="Group 5141">
+            <g data-name="Group 5142">
+                <path data-name="Path 48142" d="M9 0C4.03 0 0 3.729 0 8.329a7.765 7.765 0 0 0 .344 2.279A5.967 5.967 0 0 0 .867 11.9C2.712 15.025 9 24 9 24s6.288-8.976 8.133-12.1a5.927 5.927 0 0 0 .523-1.29A7.741 7.741 0 0 0 18 8.329C18 3.729 13.97 0 9 0m0 12.8a3.663 3.663 0 0 1-2.935-1.514A4.145 4.145 0 0 1 5.25 8.8 3.885 3.885 0 0 1 9 4.8a3.885 3.885 0 0 1 3.75 4 4.145 4.145 0 0 1-.815 2.486A3.664 3.664 0 0 1 9 12.8" style="fill:#8ca4c9" transform="translate(3)"/>
+            </g>
+        </g>
+    </g>
+</svg>

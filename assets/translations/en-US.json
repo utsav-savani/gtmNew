@@ -1,0 +1,57 @@
+{
+    "welcome": "Welcome Back",
+
+    "login": "Login",
+    "signup": "Signup",
+    "forgotPassword": "Forgot Password",
+
+    "reset": "Reset",
+    "back": "Back",
+    "Ok": "Okay",
+    "noDataFound": "No Data Found",
+
+    "emailId": "Email Id",
+    "enterEmailId": "Enter Email Id",
+    "pleaseEnterEmailId": "Please Enter Email Id",
+    "pleaseEnterValidEmailId": "Please Enter Valid Email Id",
+
+    "password": "Password",
+    "enterPassword": "Enter Password",
+    "pleaseEnterPassword": "Please Enter Password",
+
+    "fullName": "Full Name",
+    "enterFullName": "Enter Full Name",
+    "pleaseEnterFullName": "Please Enter Full Name",
+
+    "areYouSure": "Are you sure?",
+    "youWantToLogout": "You want to logout",
+
+    "tripManager": "Trip Manager",
+    "tripManagerDashboard": "Trip Manager Dashboard",
+
+    "selectFromDate": "Select From Date",
+    "selectToDate": "Select To Date",
+
+    "total": "Total",
+    "draft": "Draft",
+    "inprogress": "Inprogress",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+
+    "End": "End",
+    "Start": "Start",
+    "Callsign": "Callsign",
+    "Operator": "Operator",
+    "Customer": "Customer",
+    "New Trip": "New Trip",
+    "New trips are shown on dashboard": "Customer",
+    "Select Aircraft Registration": "Select Aircraft Registration",
+    "Select Operator": "Select Operator",
+    "Select UAS Team": "Select UAS Team",
+    "Reg No.": "Reg No",
+    "Aircraft Type": "Aircraft Type",
+    "Route": "Route",
+    "File Status": "File Status",
+    "Request Trip Cost Estimate": "Request Trip Cost Estimate",
+    "Flight Category": "Flight Category"
+}
